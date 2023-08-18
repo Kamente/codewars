@@ -10,3 +10,4 @@ def encode(i):
 
 # example:
 print(encode("adi"))
+print(encode("ab@c"))
