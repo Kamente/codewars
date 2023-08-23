@@ -13,4 +13,6 @@ def amicableNumbers(num1, num2):
         return False
 
 results = amicableNumbers(220,284)
+ressults = amicableNumbers(220,180)
 print(results)
+print(ressults)
