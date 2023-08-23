@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/56b5ebaa26fd54188b000018
+
 def amicableNumbers(num1, num2):
     sum1=0
     sum2=0
